@@ -1,4 +1,4 @@
-# Halloween.github.io
+# https://shreyash-ssc.github.io/Halloween-Store/
 Responsive Halloween Website Using HTML, CSS & JavaScript.
 Contains animations when scrolling.
 It has three color designs (green, red and black)
